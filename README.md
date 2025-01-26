@@ -37,14 +37,14 @@
 
 ### How to Play
 1. **Start the Game:**
-  - The game begins by asking the number of players (2 to 5).
-  - Each player is assigned a unique checker.
+    - The game begins by asking the number of players (2 to 5).
+    - Each player is assigned a unique checker.
 2. **Make a Move:**
-  - Players take turns entering their moves (e.g., A1 for column A, row 1).
-  - The board updates automatically after each valid move.
-3. **Win or Draw:**:
-  - Players take turns entering their moves (e.g., A1 for column A, row 1).
+    - Players take turns entering their moves (e.g., A1 for column A, row 1).
+    - The board updates automatically after each valid move.
+3. **Win or Draw:**
+    - Players take turns entering their moves (e.g., A1 for column A, row 1).
 4. **Restart:**
-  - Re-run the script to start a new game.   
+    - Re-run the script to start a new game.   
    
 
