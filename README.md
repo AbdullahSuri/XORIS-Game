@@ -28,14 +28,14 @@
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/AbdullahSuri/XORIS-Game.git
-   
 2. **Navigate to the Project Directory**:
+   
    cd XORIS-Game
-   
 3. **Run the Game**:
-   python XORIS.py
    
+   python XORIS.py
 4. **Play the Game**
+   
    Follow the on-screen instructions and Enter moves in the format A1, C3, etc
 
 ### How to Play
