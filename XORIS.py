@@ -184,7 +184,3 @@ while draw==False and win==False:           #loop runs while condition is not me
                             print("THE GAME ENDS AS A DRAW!!!")
 
                         break;
-
-
-
-
