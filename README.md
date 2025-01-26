@@ -29,25 +29,22 @@
    ```bash
    git clone https://github.com/AbdullahSuri/XORIS-Game.git
 2. **Navigate to the Project Directory**:
-   
    cd XORIS-Game
 3. **Run the Game**:
-   
    python XORIS.py
 4. **Play the Game**
-   
    Follow the on-screen instructions and Enter moves in the format A1, C3, etc
 
 ### How to Play
-1. **Start the Game:**:
-   ```bash
-   git clone https://github.com/AbdullahSuri/XORIS-Game.git
-2. **Navigate to the Project Directory**:
-   cd XORIS-Game
-4. **Run the Game**:
-   python XORIS.py
-5. **Play the Game**
-   Follow the on-screen instructions and Enter moves in the format A1, C3, etc
-   
+1. **Start the Game:**
+  - The game begins by asking the number of players (2 to 5).
+  - Each player is assigned a unique checker.
+2. **Make a Move:**
+  - Players take turns entering their moves (e.g., A1 for column A, row 1).
+  - The board updates automatically after each valid move.
+3. **Win or Draw:**:
+  - Players take turns entering their moves (e.g., A1 for column A, row 1).
+4. **Restart:**
+  - Re-run the script to start a new game.   
    
 
